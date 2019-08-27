@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-09-28 15:11+0200\n"
+"PO-Revision-Date: 2018-09-28 15:12+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ../../../../../Volumes/GoogleDrive/Meine Ablage/"
+"_MARKETING    COMMUNICATION/XX_DESIGN/02_DIGITAL/DIGITAL SHOWROOM/App/app\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: func/localize.js.php\n"
+"X-Poedit-SearchPath-1: showroom.php\n"
+"X-Poedit-SearchPath-2: start.php\n"
+
+#: func/localize.js.php:19
+msgid "available"
+msgstr "beschikbaar"
+
+#: func/localize.js.php:20
+msgid "Temporarily not available"
+msgstr "Tijdelijk niet beschikbaar"
+
+#: func/localize.js.php:21
+msgid "Not available in this store"
+msgstr "Niet beschikbaar in deze winkel"
+
+#: func/localize.js.php:22
+msgid "immediately avaialable"
+msgstr "onmiddellijk beschikbaar"
+
+#: func/localize.js.php:24
+msgid "Available online"
+msgstr "Beschikbaar online"
+
+#: func/localize.js.php:25
+msgid "Not available online"
+msgstr "Niet beschikbaar online"
+
+#: func/localize.js.php:26
+msgid "Less than 10 available online"
+msgstr "Minder dan 10 exemplaren beschikbaar online"
+
+#: func/localize.js.php:28 showroom.php:131
+msgid "Comparison"
+msgstr "Vergelijken"
+
+#: func/localize.js.php:29 showroom.php:263 showroom.php:284
+msgid "Free"
+msgstr "Gratis"
+
+#: func/localize.js.php:30
+msgid "From"
+msgstr "Vanaaf"
+
+#: func/localize.js.php:31
+msgid "Overview"
+msgstr "Overzicht"
+
+#: func/localize.js.php:33
+msgid "Order online"
+msgstr "Online bestellen"
+
+#: func/localize.js.php:34
+msgid "Take now"
+msgstr "Kies nu"
+
+#: func/localize.js.php:36
+msgid "Review"
+msgstr "Oordeel"
+
+#: func/localize.js.php:37
+msgid "Reviews"
+msgstr "Reviews"
+
+#: func/localize.js.php:38
+msgid "No reviews"
+msgstr "Geen review"
+
+#: func/localize.js.php:40
+msgid "Scan the QR code to open the link."
+msgstr "Scan de QR-codes om de link te openen."
+
+#: func/localize.js.php:41
+msgid "Scan the QR code to add the product to your <span>cart</span>."
+msgstr ""
+"Scan de QR-codes om het product te toevoegen in je <span>winkelmandje</span>."
+
+#: func/localize.js.php:42 showroom.php:342
+msgid "<span>Scan</span> the QR code to get all product informations!"
+msgstr "<span>Scan</span> je QR-code om alle product informatie te krijgen!"
+
+#: func/localize.js.php:43
+msgid "Scan the QR code to take the product <span>right now</span>."
+msgstr "Scan de QR-code om het product nu <span>mee te nemen</span>."
+
+#: func/localize.js.php:44
+#, php-format
+msgid "Scan the QR code to reserve the article in <span>%%STORE_NAME%%</span>."
+msgstr ""
+"Scan the QR-code om het artikel te meenemen in <span>%%STORE_NAME%%</span>."
+
+#: func/localize.js.php:46
+msgid "Variants"
+msgstr "Varianten"
+
+#: showroom.php:104
+msgid "Even more choice?"
+msgstr "Nog meer keuze?"
+
+#: showroom.php:105
+msgid "Just touch the screen"
+msgstr "Raak het scherm aan"
+
+#: showroom.php:214
+msgid "Back to overview"
+msgstr "Terug naar het overzicht"
+
+#: showroom.php:241
+msgid "More info"
+msgstr "Meer informatie"
+
+#: showroom.php:247
+msgid "Availability"
+msgstr "Beschikbaarheid"
+
+#: showroom.php:255
+msgid "Delivery options"
+msgstr "Levering opties"
+
+#: showroom.php:261
+msgid "Store reservation"
+msgstr "Winkel reservatie"
+
+#: showroom.php:262
+msgid "Ready to pick up in 1h"
+msgstr "Klaar voor afhaling in 1u"
+
+#: showroom.php:282
+msgid "Click & Collect"
+msgstr "Click & Collect"
+
+#: showroom.php:321
+msgid "Home delivery"
+msgstr "Thuislevering"
+
+#: showroom.php:330
+msgid "Product benefits"
+msgstr "Voordelen product"
+
+#: showroom.php:334
+msgid "Technical informations"
+msgstr "Technische informatie"
+
+#: showroom.php:345
+msgid "Close"
+msgstr "Sluiten"
+
+#: start.php:41
+msgid "Choose your <span>showroom</span>"
+msgstr "Kies jouw <span>showroom</span>"
+
+#: start.php:44
+msgid "Choose your store"
+msgstr "Kies je winkel"
+
+#: start.php:64
+msgid "Choose the <span>order</span> of your sports"
+msgstr "Kies de <span>volgorde</span> van je sporten"
+
+#: start.php:69
+msgid "Back"
+msgstr "Terug"
+
+#: start.php:70
+msgid "Launch showroom"
+msgstr "De showroom lanceren"
+
+#~ msgid "Reserve now"
+#~ msgstr "Reserveer nu"
+
+#~ msgid "Discover our <span>%s</span> range"
+#~ msgstr "Ontdek ons <span>%s</span> aanbod"

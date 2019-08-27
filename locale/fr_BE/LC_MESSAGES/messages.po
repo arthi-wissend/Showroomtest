@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-09-28 15:07+0200\n"
+"PO-Revision-Date: 2018-09-28 15:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ../../../Volumes/GoogleDrive/Meine Ablage/_MARKETING    "
+"COMMUNICATION/XX_DESIGN/02_DIGITAL/DIGITAL SHOWROOM/App/app\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: showroom.php\n"
+"X-Poedit-SearchPath-1: start.php\n"
+"X-Poedit-SearchPath-2: func/localize.js.php\n"
+
+#: func/localize.js.php:19
+msgid "available"
+msgstr "disponible"
+
+#: func/localize.js.php:20
+msgid "Temporarily not available"
+msgstr "Non disponible temporairement"
+
+#: func/localize.js.php:21
+msgid "Not available in this store"
+msgstr "Non disponible en magasin"
+
+#: func/localize.js.php:22
+msgid "immediately avaialable"
+msgstr "disponible immédiatement"
+
+#: func/localize.js.php:24
+msgid "Available online"
+msgstr "Disponible en ligne"
+
+#: func/localize.js.php:25
+msgid "Not available online"
+msgstr "Non disponible en ligne"
+
+#: func/localize.js.php:26
+msgid "Less than 10 available online"
+msgstr "Moins de 10 disponibles en ligne"
+
+#: func/localize.js.php:28 showroom.php:131
+msgid "Comparison"
+msgstr "Comparer"
+
+#: func/localize.js.php:29 showroom.php:263 showroom.php:284
+msgid "Free"
+msgstr "Offert"
+
+#: func/localize.js.php:30
+msgid "From"
+msgstr "À partir de"
+
+#: func/localize.js.php:31
+msgid "Overview"
+msgstr "Aperçu"
+
+#: func/localize.js.php:33
+msgid "Order online"
+msgstr "Commander en ligne"
+
+#: func/localize.js.php:34
+msgid "Take now"
+msgstr "À  prendre directement"
+
+#: func/localize.js.php:36
+msgid "Review"
+msgstr "Avis client"
+
+#: func/localize.js.php:37
+msgid "Reviews"
+msgstr "Avis client"
+
+#: func/localize.js.php:38
+msgid "No reviews"
+msgstr "Pas d’avis client"
+
+#: func/localize.js.php:40
+msgid "Scan the QR code to open the link."
+msgstr "Scannez le QR code pour ouvrir le lien."
+
+#: func/localize.js.php:41
+msgid "Scan the QR code to add the product to your <span>cart</span>."
+msgstr ""
+"Scannez le QR code pour ajouter le produit à votre <span>panier</span>."
+
+#: func/localize.js.php:42 showroom.php:342
+msgid "<span>Scan</span> the QR code to get all product informations!"
+msgstr ""
+"<span>Scannez</span> le QR code pour avoir toutes les informations du "
+"produit!"
+
+#: func/localize.js.php:43
+msgid "Scan the QR code to take the product <span>right now</span>."
+msgstr "Scannez le QR code pour prendre le produit <span>immédiatement</span>."
+
+#: func/localize.js.php:44
+#, php-format
+msgid "Scan the QR code to reserve the article in <span>%%STORE_NAME%%</span>."
+msgstr ""
+"Scannez le QR code pour réserver cet article dans votre magasin <span>"
+"%%STORE_NAME%%</span>."
+
+#: func/localize.js.php:46
+msgid "Variants"
+msgstr "Autres modèles"
+
+#: showroom.php:104
+msgid "Even more choice?"
+msgstr "Encore plus de choix ?"
+
+#: showroom.php:105
+msgid "Just touch the screen"
+msgstr "Touchez l’écran"
+
+#: showroom.php:214
+msgid "Back to overview"
+msgstr "Retour à l’aperçu"
+
+#: showroom.php:241
+msgid "More info"
+msgstr "Plus d’informations"
+
+#: showroom.php:247
+msgid "Availability"
+msgstr "Disponibilité"
+
+#: showroom.php:255
+msgid "Delivery options"
+msgstr "Options de livraison"
+
+#: showroom.php:261
+msgid "Store reservation"
+msgstr "Réservation en magasin"
+
+#: showroom.php:262
+msgid "Ready to pick up in 1h"
+msgstr "Retrait prêt dans 2h"
+
+#: showroom.php:282
+msgid "Click & Collect"
+msgstr "Retrait"
+
+#: showroom.php:321
+msgid "Home delivery"
+msgstr "Livraison à domicile"
+
+#: showroom.php:330
+msgid "Product benefits"
+msgstr "Avantages produit"
+
+#: showroom.php:334
+msgid "Technical informations"
+msgstr "Informations techniques"
+
+#: showroom.php:345
+msgid "Close"
+msgstr "Fermer"
+
+#: start.php:41
+msgid "Choose your <span>showroom</span>"
+msgstr "Sélectionnez votre <span>showroom</span>"
+
+#: start.php:44
+msgid "Choose your store"
+msgstr "Choisir son magasin"
+
+#: start.php:64
+msgid "Choose the <span>order</span> of your sports"
+msgstr "Choisir <span>l’ordre</span> de vos sports"
+
+#: start.php:69
+msgid "Back"
+msgstr "Retour"
+
+#: start.php:70
+msgid "Launch showroom"
+msgstr "Démarrer le showroom"
+
+#~ msgid "Reserve now"
+#~ msgstr "Réservez maintenant"
+
+#~ msgid "Discover our <span>%s</span> range"
+#~ msgstr "Découvrez <span>%s</span> de notre gamme"
